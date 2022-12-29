@@ -8,7 +8,7 @@
     "serve": "node server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rishita",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
