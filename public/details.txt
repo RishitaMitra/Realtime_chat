@@ -1,7 +1,0 @@
-follow the yt link for clear 
-https://www.youtube.com/watch?v=_gikjdpWmcI&t=1498s
-
-To start the serve we have to write npm run dev enter (as nodemon server is running in dev check package.json)
-then goto the port which shows in terminal and open in 2 or many browser same localhost: port 
-and enter name separate in separate browserthen start chat write something and check in behind browser whether it shows or not
-it wil be showing the chat. 
